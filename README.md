@@ -25,7 +25,7 @@ Bem-vindo ao meu perfil do GitHub! 🚀 Aqui você encontrará projetos que most
 ## 💡 Sobre mim
 
 - 🎯 Sempre buscando aprender e crescer na área de desenvolvimento.
-- 🌱 Atualmente estudando **[sua área ou tecnologia atual]**.
+- 🌱 Atualmente estudando **Fullstack**.
 - 📫 Entre em contato: **seuemail@dominio.com**
 
 ---
